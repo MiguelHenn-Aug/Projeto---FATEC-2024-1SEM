@@ -1,6 +1,6 @@
 
 .body-bg{
-    background-image: url(../img/Fundo_Login_Cadastro.jpg);
+    background-image: url(/img/Fundo_Login_Cadastro.jpg);
     background-repeat: no-repeat;
     background-size: 200%;
     background-position: center;
@@ -18,14 +18,14 @@
 }
 
 .sobrenos-background{
-    background-image: url(../img/sobrenosbackground.webp);
+    background-image: url(/img/sobrenosbackground.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
 }
 
 .sobrenos-background2{
-    background-image: url(../img/sobrenosbackground.webp);
+    background-image: url(/img/sobrenosbackground.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -51,7 +51,7 @@
     display: flex;
   }
 .img_fundo{
-    background-image: url(../IMAGENS/Binario4GIF.gif);
+    background-image: url(/IMAGENS/Binario4GIF.gif);
     height: 120px;
     background-position: center;
     background-repeat: no-repeat;
@@ -107,7 +107,7 @@
 }
 
 .container-fig1{
-   background-image: url(../IMAGENS/VisaBlockFi.avif);
+   background-image: url(/IMAGENS/VisaBlockFi.avif);
    border-radius: 20px;
    border: 3px solid black;
    color: #ffff;
@@ -116,7 +116,7 @@
 }
 
 .container-fig2{
-   background-image: url(../IMAGENS/Ethereum2.jpg);
+   background-image: url(/IMAGENS/Ethereum2.jpg);
    border-radius: 20px;
    border: 3px solid black;
    color: #ffff;
@@ -135,7 +135,7 @@
 }
 
 .container-fig3{
-    background-image: url(../IMAGENS/MemeCoin_Trump.webp);
+    background-image: url(/IMAGENS/MemeCoin_Trump.webp);
     border-radius: 20px;
     border: 3px solid black;
     color: #ffff;
@@ -144,7 +144,7 @@
 }
 
 .container-fig4{
-    background-image: url(../IMAGENS/Queda_Bitcoin.jpg);
+    background-image: url(/IMAGENS/Queda_Bitcoin.jpg);
     border-radius: 20px;
     border: 3px solid black;
     color: #ffff;
@@ -188,14 +188,14 @@
 
   .section_main1{
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-image: url(../IMAGENS/Fundo_Nav.jpg);
+    background-image: url(/IMAGENS/Fundo_Nav.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   .section_main2{
-    background-image: url(../IMAGENS/Fundo2.webp);
+    background-image: url(/IMAGENS/Fundo2.webp);
     color: rgb(230, 162, 18);
   }
 
@@ -222,7 +222,7 @@
 
   .section_main1_artigo{
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-image: url(../IMAGENS/Fundo2.webp);
+    background-image: url(/IMAGENS/Fundo2.webp);
     color: #ffff;
 
   }
@@ -234,12 +234,12 @@
 
   .section_main3_artigo{
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-image: url(../IMAGENS/Fundo2.webp);
+    background-image: url(/IMAGENS/Fundo2.webp);
     color: #ffff;
   }
 
   .section_pesquisa_artigo{
-    background-image: url(../IMAGENS/Teste2.jpg);
+    background-image: url(/IMAGENS/Teste2.jpg);
     }
 
   .sombra{
