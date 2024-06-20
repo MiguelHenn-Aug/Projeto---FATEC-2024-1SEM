@@ -1,6 +1,6 @@
 
 .body-bg{
-    background-image: url(/img/Fundo_Login_Cadastro.jpg);
+    background-image: url(../img/Fundo_Login_Cadastro.jpg);
     background-repeat: no-repeat;
     background-size: 200%;
     background-position: center;
@@ -18,14 +18,14 @@
 }
 
 .sobrenos-background{
-    background-image: url(/img/sobrenosbackground.webp);
+    background-image: url(../img/sobrenosbackground.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
 }
 
 .sobrenos-background2{
-    background-image: url(/img/sobrenosbackground.webp);
+    background-image: url(../img/sobrenosbackground.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -201,7 +201,7 @@
 
   .section_main4{
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-image: url(../IMAGENS/Teste2.jpg);
+    background-image: url(/IMAGENS/Teste2.jpg);
   }
 
   .imagem_entrevista{
